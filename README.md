@@ -10,3 +10,13 @@
 ### wordreplacement
 ![word](screenshots/wordreplace.png)
 
+### Basic calculator
+* Define the functions needed:(sub,mul,div)
+* print options to the user
+* ask for values
+* Call the functions
+* while loop to continue untill the user wants to exit
+
+
+
+
