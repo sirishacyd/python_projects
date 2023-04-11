@@ -64,7 +64,7 @@ pip3 install qrcode Image
 * save the QR code as an image
 * run the function 
 
-![QR](screenshots/qrcode.png)
+![QR](screenshots/qrimg001.png)
 
 
 
