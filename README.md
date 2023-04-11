@@ -1,16 +1,16 @@
 # python_projects
 
-### EmailSender(sending mail with python)
+### 1.EmailSender(sending mail with python)
 
 * go to our gmail account  and set up 2 factor authentication
 * geneerate password in app
 * create a function to send email
 * ![email](screenshots/email.png)
 
-### wordreplacement
+### 2.wordreplacement
 ![word](screenshots/wordreplace.png)
 
-### Basic calculator
+### 3.Basic calculator
 * Define the functions needed:(sub,mul,div)
 * print options to the user
 * ask for values
@@ -20,13 +20,17 @@
 ![cal](screenshots/cal.png)
 
 
-### Emailslicer
+### 4.Emailslicer
 
 A program that  takes particular email and it slices into user name and domain
 
 * Collect email from user
 * Split the email using the @ the first part as the username , the second part is gonna be saved as domain 
 * split domain using '.' 
+
+![emailslicer](screenshots/slicer.png)
+
+### 5.BinarySearch
 
 ![emailslicer](screenshots/slicer.png)
 
