@@ -17,6 +17,8 @@
 * Call the functions
 * while loop to continue untill the user wants to exit
 
+![cal](screenshots/cal.png)
+
 
 
 
