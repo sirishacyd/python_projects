@@ -1,6 +1,6 @@
 # python_projects
 
-### EmailSender
+### EmailSender(sending mail with python)
 
 * go to our gmail account  and set up 2 factor authentication
 * geneerate password in app
