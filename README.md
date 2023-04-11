@@ -52,6 +52,17 @@ A program that  takes particular email and it slices into user name and domain
 
 ![quiz](screenshots/quiz.png)
 
+### 7.QRcode
+
+* Install all the lib's needed
+* Create a function that collects a text and convert it to a QR code
+* save the QR code as an image
+* run the function 
+
+![QR](screenshots/qrcode.png)
+
+
+
 
 
 
