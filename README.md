@@ -20,5 +20,14 @@
 ![cal](screenshots/cal.png)
 
 
+### Emailslicer
+
+A program that  takes particular email and it slices into user name and domain
+
+* Collect email from user
+* Split the email using the @ the first part as the username , the second part is gonna be saved as domain 
+* split domain using '.' 
+
+
 
 
