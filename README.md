@@ -39,7 +39,7 @@ A program that  takes particular email and it slices into user name and domain
 * add the conditions to track target position
 
 
-![BinarySearch](screenshots/BinarySearch.png)
+![BinarySearch](screenshots/binary.png)
 
 
 
