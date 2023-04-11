@@ -38,8 +38,19 @@ A program that  takes particular email and it slices into user name and domain
 * Increase the steps each time a split is done
 * add the conditions to track target position
 
-
 ![BinarySearch](screenshots/binary.png)
+
+### 6.Quiz
+
+* A dictionary that stores questions and answers
+* Have a variable that tracks the score of the player
+* loop through the dictionary using the key value pairs
+* Display each question to the user and allow them to answer 
+* If they are right or wrong
+* Show the final result when quiz is completed
+
+
+![quiz](screenshots/quiz.png)
 
 
 
