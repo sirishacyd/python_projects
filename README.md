@@ -55,6 +55,11 @@ A program that  takes particular email and it slices into user name and domain
 ### 7.QRcode
 
 * Install all the lib's needed
+
+```
+pip3 install qrcode Image
+```
+
 * Create a function that collects a text and convert it to a QR code
 * save the QR code as an image
 * run the function 
