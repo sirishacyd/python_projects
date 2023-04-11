@@ -6,3 +6,7 @@
 * geneerate password in app
 * create a function to send email
 * ![email](screenshots/email.png)
+
+### wordreplace
+![word](screenshots/wordreplace.png)
+
