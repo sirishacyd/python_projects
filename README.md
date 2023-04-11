@@ -32,7 +32,17 @@ A program that  takes particular email and it slices into user name and domain
 
 ### 5.BinarySearch
 
-![emailslicer](screenshots/slicer.png)
+* A funtion that takes a list and target parameter
+* multiple variables: middle, start, end , steps 
+* we can use recursion or while loop
+* Increase the steps each time a split is done
+* add the conditions to track target position
+
+
+![BinarySearch](screenshots/BinarySearch.png)
+
+
+
 
 
 
