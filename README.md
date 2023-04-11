@@ -7,6 +7,6 @@
 * create a function to send email
 * ![email](screenshots/email.png)
 
-### wordreplace
+### wordreplacement
 ![word](screenshots/wordreplace.png)
 
