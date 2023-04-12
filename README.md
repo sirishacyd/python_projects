@@ -73,7 +73,7 @@ pip3 install qrcode Image
 * calculate the monthly payment
 * show to the user
 
-![Interest](screenshots/Interest.png)
+![Interest](screenshots/interest.png)
 
 
 
