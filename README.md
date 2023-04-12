@@ -67,7 +67,7 @@ pip3 install qrcode Image
 ![QR](screenshots/qrimg001.png)
 
 
-### 8.InterestPayment calculator
+### 8.Payment calculator
 
 * collect the necessary inputs: prinicipal, apr,years
 * calculate the monthly payment
