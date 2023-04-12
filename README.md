@@ -86,3 +86,4 @@ pip3 install qrcode Image
 
 
 
+
